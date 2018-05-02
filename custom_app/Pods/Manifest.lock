@@ -1,0 +1,32 @@
+PODS:
+  - Beethoven (4.0.2):
+    - Pitchy (~> 3.0)
+  - Cache (4.2.0)
+  - Pitchy (3.0.0)
+  - SwiftySound (1.0.0)
+  - THPDFKit (0.3.1)
+
+DEPENDENCIES:
+  - Beethoven
+  - Cache
+  - SwiftySound
+  - THPDFKit (~> 0.3.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Beethoven
+    - Cache
+    - Pitchy
+    - SwiftySound
+    - THPDFKit
+
+SPEC CHECKSUMS:
+  Beethoven: e517331e5087064e1c1fd3d3775fddb8d9f3017d
+  Cache: f28f8dd64b632155aabf9b3906b036a659048251
+  Pitchy: 15407e4425b6d88fa3e7eef8927ba659fab52d7a
+  SwiftySound: b9c3370956fd4ed65ed79d45563070077a50a2cd
+  THPDFKit: 35e59cbf25d99951b188a63ec187f6f5ba013ee8
+
+PODFILE CHECKSUM: de098225f531afaa4955efc8699d43a6e26c8ad8
+
+COCOAPODS: 1.5.0
